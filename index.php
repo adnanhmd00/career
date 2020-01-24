@@ -2,7 +2,7 @@
 <?php
     if (isset($_POST['upload'])) {
         $target= "uploads/".basename($_FILES['cv']['name']);
-        $db = mysqli_connect('localhost', 'root', 'asdf1234', 'oregonix_ts');
+        $db = mysqli_connect('localhost', 'root', '', 'oregonix_ts');
 
         $cv = $_FILES['cv']['name'];
         $full_name = $_POST['full_name'];
