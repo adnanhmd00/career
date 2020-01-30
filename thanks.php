@@ -18,7 +18,7 @@
 <meta name="robots" content="index, follow">
 <meta name="rating" content="general">
 <meta name="publisher" content="The Travel Square">
-<meta http-equiv="refresh" content="5;url=http://career.thetravelsquare.in" />
+<meta http-equiv="refresh" content="5;url=http://careers.thetravelsquare.info" />
 <meta property="og:title" content="The Travel Square">
 <meta property="og:description" content="The Travel Square is a Unique B2B Platform For Travel Agents to Get Best Quotes For Their Travel Booking Leads . Our Network is a Profesional B2B Connection of More Than 5000+ Travel Agents Around the Globe at More Than 250+ Destinations in the World . The Travel Square is Simple to Use , Efficient and Cost Savvy , Which Can Make More Margins in Travel Sales and Make Travel Agents Earn 150% More Profits.">
 <meta property="og:image" content="">
